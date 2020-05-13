@@ -1,5 +1,12 @@
 # Simulating a Pandemic
-Taking a stab at visual simulations of how pandemics spread.
+Visually simulating how a pandemic could spread through a population by changing hyperparameters like size, infection rate, lethality, etc.
+
+## Libraries/Packages
+ - Python 3
+   - Pandas
+   - NumPy
+   - Matplotlib
+   - Numba
 
 ## Scenarios
 
